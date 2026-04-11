@@ -24,8 +24,8 @@ Il repository è organizzato come richiesto dalle specifiche:
 /src: contiene il codice sorgente Python (main.py).
 
 /sql: contiene lo script SQL per la creazione del database (database.sql).
-
-/demo: il video dimostrativo e disponibile al seguente link: 
+## Demo del funzionamento
+A causa delle dimensioni del file, il video dimostrativo è consultabile al seguente link:
 https://drive.google.com/file/d/1AaWmhxukbpr2MruUzKlbjr_r-qXvDQQ_/view?usp=sharing
 
 README.md: istruzioni e documentazione del progetto.
